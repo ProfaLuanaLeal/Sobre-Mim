@@ -1,4 +1,3 @@
-# Sobre-Mim
 # Olá! 👋 Eu sou Luana Leal
 
 ## 👩‍💻 Professora | Desenvolvedora Front-end | Especialista em Tecnologias Educacionais
@@ -34,7 +33,9 @@ Professora apaixonada por STEAM, Maker e Coding, com sólida experiência em des
 
 ### 🔧 Ferramentas de Desenvolvimento
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google IDX](https://img.shields.io/badge/Google%20IDX-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -75,6 +76,7 @@ Professora apaixonada por STEAM, Maker e Coding, com sólida experiência em des
 - 🔬 **Especialização** em Tecnologias Educacionais
 - 🧠 **Pós-graduação** em Psicopedagogia Clínica
 - 🎮 **Especialização** em Gamificação e Design de Games
+- 🤖 **Especialização** em Inovação, Inteligência Artificial e Robótica Educacional - GRAN (2024-2025)
 
 ---
 
@@ -112,6 +114,8 @@ Professora apaixonada por STEAM, Maker e Coding, com sólida experiência em des
 - 🚀 Tecnologias Emergentes
 - 📱 Desenvolvimento de Apps Educacionais
 - 🎨 Design Thinking aplicado à Educação
+- 💬 Engenharia de Prompt
+- 🎯 Game Design
 
 ---
 
