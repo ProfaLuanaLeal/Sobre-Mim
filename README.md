@@ -73,10 +73,13 @@ Professora apaixonada por STEAM, Maker e Coding, com sólida experiência em des
 
 - 🎓 **Licenciatura** em Ciência da Computação - UniNorte
 - 📚 **MBA** em Gestão, Inovação e Criatividade
+- 💼 **MBA** em Gestão de Negócios Inovadores
+- 🏫 **MBA** em Gestão Escolar - Descomplica
 - 🔬 **Especialização** em Tecnologias Educacionais
 - 🧠 **Pós-graduação** em Psicopedagogia Clínica
 - 🎮 **Especialização** em Gamificação e Design de Games
-- 🤖 **Especialização** em Inovação, Inteligência Artificial e Robótica Educacional - GRAN (2024-2025)
+- 🤖 **Especialização** em Inovação, Inteligência Artificial e Robótica Educacional
+
 
 ---
 
